@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heading">Android 13 Fotopicker</string>
+    <string name="description">Vereinfachen Sie die Auswahl und Anzeige von Fotos mit Android
+        13\'s Fotopicker.</string>
+    <string name="single_photo_button">Einzelbildauswahl</string>
+    <string name="multiple_photo_button">Mehrfachbildauswahl</string>
+</resources>

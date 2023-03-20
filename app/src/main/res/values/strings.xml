@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Android13PhotoPicker</string>
+    <string name="heading">Android 13 Photo Picker</string>
+    <string name="description">Simplify photo selection and display with Android 13\'s photo
+        picker.</string>
+    <string name="single_photo_button">Single Image Picker</string>
+    <string name="multiple_photo_button">Multiple Image Picker</string>
+</resources>

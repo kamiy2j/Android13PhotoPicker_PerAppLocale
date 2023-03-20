@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heading">منتقي الصور من أندرويد 13</string>
+    <string name="description">تبسيط اختيار الصور وعرضها باستخدام منتقي الصور من أندرويد 13.</string>
+    <string name="single_photo_button">منتقي صورة واحدة</string>
+    <string name="multiple_photo_button">منتقي صور متعددة</string>
+</resources>

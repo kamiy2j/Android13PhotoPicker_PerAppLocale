@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heading">Sélecteur de photos Android 13</string>
+    <string name="description">Simplifiez la sélection et l\'affichage de photos avec le
+        sélecteur de photos d\'Android 13.</string>
+    <string name="single_photo_button">Sélection d\'une seule image</string>
+    <string name="multiple_photo_button">Sélection de plusieurs images</string>
+</resources>
